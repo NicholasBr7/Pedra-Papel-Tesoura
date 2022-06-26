@@ -1,0 +1,18 @@
+#container {
+    background-color: #dfebe4;
+    border: 3px solid;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+    text-align: center;
+    width: 500px;
+}
+
+.botoes{
+    border: 2px solid;
+    border-radius: 5px;
+    cursor: pointer;
+    line-height: 25px;
+    margin: 20px;
+    width: 100px;
+}
